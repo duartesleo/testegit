@@ -2,8 +2,3 @@ Realizando um teste com o git!
 
 
 Estamos praticando git.
-
-
-
-
-Mais uma alteração.
